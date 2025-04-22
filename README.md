@@ -15,6 +15,8 @@ A simple Flutter application demonstrating a login form with basic input validat
 *   Hardcoded credentials for demonstration (`test@example.com` / `Password123!`).
 *   Navigation to a success page upon valid login.
 *   Success page displays user-specific information (hardcoded for this demo).
+<img width="419" alt="Screenshot 2025-04-22 at 11 53 30 at night" src="https://github.com/user-attachments/assets/9c530f7d-b7c8-420f-b48f-99c2a3e87c7e" />
+<img width="419" alt="Screenshot 2025-04-22 at 11 52 12 at night" src="https://github.com/user-attachments/assets/f2b46bf4-d665-48c5-b5f2-509551bb2672" />
 
 ## Project Information
 
